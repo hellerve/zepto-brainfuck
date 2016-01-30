@@ -22,3 +22,7 @@ It should be somewhat slow.
 # Why
 
 I just wanted to test zeptos capabilities once again.
+
+<hr/>
+
+Have fun!
