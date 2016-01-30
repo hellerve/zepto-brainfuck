@@ -15,6 +15,10 @@ zepto bf.zp examples/helloworld.bf
 
 This should print "Hello World!" and return `nil`.
 
+This is not a production-ready brainfuck interpreter
+(if that exists) and it has not been battle-tested.
+It should be somewhat slow.
+
 # Why
 
 I just wanted to test zeptos capabilities once again.
